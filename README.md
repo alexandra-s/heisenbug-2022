@@ -8,6 +8,8 @@ Additional materials for my talk at Heisenbug 2022
 docker run -it --rm -p 8000:8000 opensecurity/mobile-security-framework-mobsf:latest
 ```
 
+MobSF web interface is now available at http://localhost:8000/
+
 ## Drozer
 
 ### 1. Install Drozer Agent 
